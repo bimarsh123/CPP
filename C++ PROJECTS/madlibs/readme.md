@@ -1,1 +1,2 @@
 
+Mad Libs is a fun party game. The object of the game is to produce a humorous story by using word substitutions. Word descriptions are followed by blank spaces. Players fill in these blank spaces with words that match the descriptions. Most word descriptions are simple parts of speech, like "noun", "verb", "adjective", etc. When complete the story will be funny, crazy, ridiculous or just plain dumb. You can never tell till the story is read back. Nevertheless, it's FUN!
