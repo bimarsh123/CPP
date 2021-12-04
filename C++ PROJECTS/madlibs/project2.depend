@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636788854 source:c:\users\biplav\desktop\c++ projects\project2\main.cpp
+	<iostream>
+	<stdlib.h>
+	"conio.h"
+
