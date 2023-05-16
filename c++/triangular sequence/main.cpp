@@ -6,7 +6,8 @@ int main()
 {
    int x,y=0;
    cin>>x;
-   y=(x*(x+1))/2;
+   int z= x*(x+1)
+   y=z/2;
    cout<<y;
     return 0;
 }
