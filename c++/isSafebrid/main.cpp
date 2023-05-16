@@ -5,9 +5,10 @@ int main()
 {
    string str;
    int i,x=0;
+   cout<<"this is your input:";
    getline(cin,str);
-   int len=str.size();
-   for(i=0;i<len;i++){
+   
+   for(i=0;i<str.size();i++){
         if(str[i]==' ')
         x+=1;
    }
